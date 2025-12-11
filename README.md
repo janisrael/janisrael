@@ -93,7 +93,7 @@ Full-stack developer and AI/ML engineer specializing in building production-read
 
 ---
 
-## 🔧 What I'm Working On
+##  What I'm Working On
 
 -  Building production-grade SaaS applications with AI integration
 -  Developing RAG systems and LLM fine-tuning pipelines
