@@ -1,6 +1,6 @@
 #  Hi, I'm Jan Francis Israel
 
-**Senior Full-Stack & AI/ML Engineer** | Building production-grade SaaS applications with AI integration
+**FULL-STACK DEVELOPER | AI/ML SOLUTIONS | DEVOPS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janisrael.com-667eea?style=flat-square)](https://janisrael.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jan-francis-israel)
