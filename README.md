@@ -50,7 +50,7 @@ Full-stack developer and AI/ML engineer specializing in building production-read
 
 ##  Featured Projects
 
-### **Production-Grade SaaS Applications**
+### **SaaS Applications**
 
 | Project | Description | Tech Stack | Live |
 |:---|:---|:---|:---|
