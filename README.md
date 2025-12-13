@@ -11,7 +11,7 @@ FULL-STACK DEVELOPER | AI/ML SOLUTIONS | DEVOPS
 
 ##  About Me
 
-Full-stack developer and AI/ML engineer specializing in building production-ready SaaS applications, RAG systems, and cloud-native architectures. I leverage AI as a development co-pilot to accelerate software delivery while maintaining code quality and best practices.
+Full-stack developer and AI/ML solutions specializing in building production-ready SaaS applications, RAG systems, and cloud-native architectures. I leverage AI as a development co-pilot to accelerate software delivery while maintaining code quality and best practices.
 
 **Currently:** Building AI-powered platforms and deploying production applications on Kubernetes infrastructure
 
